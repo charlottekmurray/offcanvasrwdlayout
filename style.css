@@ -86,10 +86,14 @@ a.toggle-nav img {
 h1 {
   color: #354025;
     font-size: 2em;
+  margin-bottom: 8px;
+  line-height: 1.1em;
 }
 
 h2 {
   color: #354025;
+  margin-top: 10px;
+  margin-bottom: 30px;
 }
 
 a:hover {
